@@ -2,7 +2,7 @@
 
 Hypothetical requirements:
 <ul>
-Client is a manufacturing company.
+  <li>Client is a manufacturing company.</li>
   <li>They are looking for software solution to help manage the assembly lines and ensure that all assembly lines are always operating at optimal capacity.</li>
   <li>The key constraint is that the client has multiple product lines. When an assembly of a product line is active, it will utilise certain combination of available assembly lines, preventing them from being used by other product lines (i.e. when an assembly line is used for one product, the assembly of other products for this stage will be halted).</li>
   <li>Each product line uses varying amount of time for each type of assembly (i.e. a food product will spend more time on packaging than a bodycare product).</li>
